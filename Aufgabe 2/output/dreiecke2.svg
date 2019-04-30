@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' version='1.1' viewBox='0 0 1024 768'> 
+<g transform='scale(1 -1)'> <g transform='translate(0 -600)' fill='#ffcc99'>
+<line id='y' x1='0' x2='820' y1='0' y2='0' fill='none' stroke='#000000' stroke-width='3'/><polygon id='D1' points='0.0 0.0 572.94 0.0 34.03 146.09 ' stroke='#212121' stroke-width='2'/> 
+<polygon id='D2' points='59.36 139.22 572.94 0.0 132.78 270.02 ' stroke='#212121' stroke-width='2'/> 
+<polygon id='D3' points='131.75 270.65 572.94 0.0 239.79 374.71 ' stroke='#212121' stroke-width='2'/> 
+<polygon id='D4' points='256.6 355.8 572.94 0.0 391.66 421.07 ' stroke='#212121' stroke-width='2'/> 
+<polygon id='D5' points='459.08 264.47 572.94 0.0 607.55 285.85 ' stroke='#212121' stroke-width='2'/> 
+</g> </g> </svg>

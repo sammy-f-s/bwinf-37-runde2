@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' version='1.1' viewBox='0 0 1024 768'> <g transform='scale(1 -1)'> <g transform='translate(0 -768)'><line id='y' x1='0' x2='0' y1='0' y2='768' fill='none' stroke='#212121' stroke-width='3'/><polygon id='P1' points='535 410 610 70 460 70 ' fill='#6B6B6B' stroke='#212121' stroke-width='2'/> 
+
+ <line x1='460' y1='70' x2='535' y2='410' stroke='green' stroke-width='1'/>
+ <line x1='460' y1='70' x2='610' y2='70' stroke='green' stroke-width='1'/>
+ <line x1='460' y1='70' x2='0' y2='336' stroke='green' stroke-width='1'/>
+ <line x1='535' y1='410' x2='610' y2='70' stroke='green' stroke-width='1'/>
+ <line x1='535' y1='410' x2='460' y2='70' stroke='green' stroke-width='1'/>
+ <line x1='535' y1='410' x2='633' y2='189' stroke='green' stroke-width='1'/>
+ <line x1='535' y1='410' x2='0' y2='336' stroke='green' stroke-width='1'/>
+ <line x1='610' y1='70' x2='535' y2='410' stroke='green' stroke-width='1'/>
+ <line x1='610' y1='70' x2='460' y2='70' stroke='green' stroke-width='1'/>
+ <line x1='610' y1='70' x2='633' y2='189' stroke='green' stroke-width='1'/><circle cx='633' cy='189' r='3' stroke='black' stroke-width='3' fill='red'></circle>
+ <line x1='633' y1='189' x2='535' y2='410' stroke='green' stroke-width='1'/>
+ <line x1='633' y1='189' x2='610' y2='70' stroke='green' stroke-width='1'/><circle cx='0' cy='336' r='3' stroke='black' stroke-width='3' fill='blue'></circle>
+ <line x1='0' y1='336' x2='460' y2='70' stroke='green' stroke-width='1'/>
+ <line x1='0' y1='336' x2='535' y2='410' stroke='green' stroke-width='1'/>
+ <line x1='633' y1='189' x2='610' y2='70' stroke='red' stroke-width='3'/>
+ <line x1='610' y1='70' x2='460' y2='70' stroke='red' stroke-width='3'/>
+ <line x1='460' y1='70' x2='0' y2='336' stroke='red' stroke-width='3'/></g> </g> </svg>

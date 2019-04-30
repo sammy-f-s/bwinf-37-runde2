@@ -1,0 +1,82 @@
+<svg xmlns='http://www.w3.org/2000/svg' version='1.1' viewBox='0 0 1024 768'> <g transform='scale(1 -1)'> <g transform='translate(0 -768)'><line id='y' x1='0' x2='0' y1='0' y2='768' fill='none' stroke='#212121' stroke-width='3'/><polygon id='P1' points='390 260 505 213 551 329 413 444 ' fill='#6B6B6B' stroke='#212121' stroke-width='2'/> 
+<polygon id='P2' points='410 50 433 50 594 96 525 188 387 165 ' fill='#6B6B6B' stroke='#212121' stroke-width='2'/> 
+<polygon id='P3' points='170 80 193 80 340 150 331 287 170 402 ' fill='#6B6B6B' stroke='#212121' stroke-width='2'/> 
+
+ <line x1='594' y1='96' x2='551' y2='329' stroke='green' stroke-width='1'/>
+ <line x1='594' y1='96' x2='433' y2='50' stroke='green' stroke-width='1'/>
+ <line x1='594' y1='96' x2='525' y2='188' stroke='green' stroke-width='1'/>
+ <line x1='594' y1='96' x2='633' y2='189' stroke='green' stroke-width='1'/>
+ <line x1='340' y1='150' x2='505' y2='213' stroke='green' stroke-width='1'/>
+ <line x1='340' y1='150' x2='413' y2='444' stroke='green' stroke-width='1'/>
+ <line x1='340' y1='150' x2='387' y2='165' stroke='green' stroke-width='1'/>
+ <line x1='340' y1='150' x2='410' y2='50' stroke='green' stroke-width='1'/>
+ <line x1='340' y1='150' x2='193' y2='80' stroke='green' stroke-width='1'/>
+ <line x1='340' y1='150' x2='331' y2='287' stroke='green' stroke-width='1'/>
+ <line x1='331' y1='287' x2='390' y2='260' stroke='green' stroke-width='1'/>
+ <line x1='331' y1='287' x2='413' y2='444' stroke='green' stroke-width='1'/>
+ <line x1='331' y1='287' x2='410' y2='50' stroke='green' stroke-width='1'/>
+ <line x1='331' y1='287' x2='525' y2='188' stroke='green' stroke-width='1'/>
+ <line x1='331' y1='287' x2='170' y2='402' stroke='green' stroke-width='1'/>
+ <line x1='331' y1='287' x2='340' y2='150' stroke='green' stroke-width='1'/>
+ <line x1='410' y1='50' x2='387' y2='165' stroke='green' stroke-width='1'/>
+ <line x1='410' y1='50' x2='433' y2='50' stroke='green' stroke-width='1'/>
+ <line x1='410' y1='50' x2='170' y2='80' stroke='green' stroke-width='1'/>
+ <line x1='410' y1='50' x2='331' y2='287' stroke='green' stroke-width='1'/>
+ <line x1='525' y1='188' x2='390' y2='260' stroke='green' stroke-width='1'/>
+ <line x1='525' y1='188' x2='551' y2='329' stroke='green' stroke-width='1'/>
+ <line x1='525' y1='188' x2='387' y2='165' stroke='green' stroke-width='1'/>
+ <line x1='525' y1='188' x2='594' y2='96' stroke='green' stroke-width='1'/>
+ <line x1='525' y1='188' x2='633' y2='189' stroke='green' stroke-width='1'/>
+ <line x1='170' y1='402' x2='390' y2='260' stroke='green' stroke-width='1'/>
+ <line x1='170' y1='402' x2='413' y2='444' stroke='green' stroke-width='1'/>
+ <line x1='170' y1='402' x2='170' y2='80' stroke='green' stroke-width='1'/>
+ <line x1='170' y1='402' x2='331' y2='287' stroke='green' stroke-width='1'/>
+ <line x1='170' y1='402' x2='0' y2='512' stroke='green' stroke-width='1'/>
+ <line x1='170' y1='80' x2='410' y2='50' stroke='green' stroke-width='1'/>
+ <line x1='170' y1='80' x2='170' y2='402' stroke='green' stroke-width='1'/>
+ <line x1='170' y1='80' x2='193' y2='80' stroke='green' stroke-width='1'/>
+ <line x1='170' y1='80' x2='0' y2='512' stroke='green' stroke-width='1'/>
+ <line x1='413' y1='444' x2='390' y2='260' stroke='green' stroke-width='1'/>
+ <line x1='413' y1='444' x2='551' y2='329' stroke='green' stroke-width='1'/>
+ <line x1='413' y1='444' x2='170' y2='402' stroke='green' stroke-width='1'/>
+ <line x1='413' y1='444' x2='340' y2='150' stroke='green' stroke-width='1'/>
+ <line x1='413' y1='444' x2='0' y2='512' stroke='green' stroke-width='1'/>
+ <line x1='433' y1='50' x2='410' y2='50' stroke='green' stroke-width='1'/>
+ <line x1='433' y1='50' x2='594' y2='96' stroke='green' stroke-width='1'/>
+ <line x1='505' y1='213' x2='390' y2='260' stroke='green' stroke-width='1'/>
+ <line x1='505' y1='213' x2='551' y2='329' stroke='green' stroke-width='1'/>
+ <line x1='505' y1='213' x2='387' y2='165' stroke='green' stroke-width='1'/>
+ <line x1='505' y1='213' x2='525' y2='188' stroke='green' stroke-width='1'/>
+ <line x1='505' y1='213' x2='633' y2='189' stroke='green' stroke-width='1'/>
+ <line x1='387' y1='165' x2='390' y2='260' stroke='green' stroke-width='1'/>
+ <line x1='387' y1='165' x2='505' y2='213' stroke='green' stroke-width='1'/>
+ <line x1='387' y1='165' x2='410' y2='50' stroke='green' stroke-width='1'/>
+ <line x1='387' y1='165' x2='525' y2='188' stroke='green' stroke-width='1'/>
+ <line x1='387' y1='165' x2='193' y2='80' stroke='green' stroke-width='1'/>
+ <line x1='387' y1='165' x2='331' y2='287' stroke='green' stroke-width='1'/><circle cx='633' cy='189' r='3' stroke='black' stroke-width='3' fill='red'></circle>
+ <line x1='633' y1='189' x2='594' y2='96' stroke='green' stroke-width='1'/>
+ <line x1='633' y1='189' x2='525' y2='188' stroke='green' stroke-width='1'/>
+ <line x1='633' y1='189' x2='505' y2='213' stroke='green' stroke-width='1'/>
+ <line x1='633' y1='189' x2='551' y2='329' stroke='green' stroke-width='1'/><circle cx='0' cy='512' r='3' stroke='black' stroke-width='3' fill='blue'></circle>
+ <line x1='0' y1='512' x2='170' y2='80' stroke='green' stroke-width='1'/>
+ <line x1='0' y1='512' x2='170' y2='402' stroke='green' stroke-width='1'/>
+ <line x1='0' y1='512' x2='390' y2='260' stroke='green' stroke-width='1'/>
+ <line x1='0' y1='512' x2='413' y2='444' stroke='green' stroke-width='1'/>
+ <line x1='193' y1='80' x2='387' y2='165' stroke='green' stroke-width='1'/>
+ <line x1='193' y1='80' x2='410' y2='50' stroke='green' stroke-width='1'/>
+ <line x1='193' y1='80' x2='170' y2='80' stroke='green' stroke-width='1'/>
+ <line x1='193' y1='80' x2='340' y2='150' stroke='green' stroke-width='1'/>
+ <line x1='390' y1='260' x2='505' y2='213' stroke='green' stroke-width='1'/>
+ <line x1='390' y1='260' x2='413' y2='444' stroke='green' stroke-width='1'/>
+ <line x1='390' y1='260' x2='387' y2='165' stroke='green' stroke-width='1'/>
+ <line x1='390' y1='260' x2='525' y2='188' stroke='green' stroke-width='1'/>
+ <line x1='390' y1='260' x2='170' y2='402' stroke='green' stroke-width='1'/>
+ <line x1='390' y1='260' x2='340' y2='150' stroke='green' stroke-width='1'/>
+ <line x1='390' y1='260' x2='0' y2='512' stroke='green' stroke-width='1'/>
+ <line x1='551' y1='329' x2='505' y2='213' stroke='green' stroke-width='1'/>
+ <line x1='551' y1='329' x2='413' y2='444' stroke='green' stroke-width='1'/>
+ <line x1='551' y1='329' x2='594' y2='96' stroke='green' stroke-width='1'/>
+ <line x1='551' y1='329' x2='633' y2='189' stroke='green' stroke-width='1'/>
+ <line x1='633' y1='189' x2='505' y2='213' stroke='red' stroke-width='3'/>
+ <line x1='505' y1='213' x2='390' y2='260' stroke='red' stroke-width='3'/>
+ <line x1='390' y1='260' x2='0' y2='512' stroke='red' stroke-width='3'/></g> </g> </svg>
